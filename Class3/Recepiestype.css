@@ -1,0 +1,13 @@
+h1{
+    color:darkred;
+    background-color: floralwhite;
+}
+.ingredients li{
+    color:green;
+}
+.process{
+    color:mediumblue;
+}
+footer{
+    font-style:italic;
+}
